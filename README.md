@@ -1,6 +1,6 @@
 ### sup <img style="margin: 10px" src="https://cdn.discordapp.com/emojis/820940541272784916.png" alt="ShiraoriBliss" height="30" />
 
-👋 Hi, I’m Chino, a Junior (or third year) Management Student attempting to learn how to be a programmer.
+👋 Hi, I’m Chino, an incoming Junior (or third year) Management Student attempting to learn how to be a programmer.
 
 - 👀 Well, everything here is a work-in-progress since I'm still starting out.
 
