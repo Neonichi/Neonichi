@@ -1,6 +1,6 @@
 ### sup <img style="margin: 10px" src="https://cdn.discordapp.com/emojis/820940541272784916.png" alt="ShiraoriBliss" height="30" />
 
-👋 Hi, I’m Chino, a Management Graduate (2023). Back on this profile (14/09/26) to embrace the dark side and vibecode.
+👋 Hi there, just a Management Graduate (2023). Back on this profile (14/09/26) to embrace the dark side and push changes with vibes.
 
 - 👀 Well, everything here is a work-in-progress since I'm still starting out.
 
